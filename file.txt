@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 This is a different change in main
+=======
+This is a feature
+>>>>>>> feature-branch
